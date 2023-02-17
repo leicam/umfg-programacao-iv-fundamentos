@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facec.Fundamentos.2023", "Facec.Fundamentos.2023\Facec.Fundamentos.2023.csproj", "{45ACEE53-B1B6-49BC-85A7-5D25983374E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facec.Fundamentos.Dominio.2023", "Facec.Fundamentos.Dominio.2023\Facec.Fundamentos.Dominio.2023.csproj", "{FE58C727-A494-49D6-8E54-2870AA1DE637}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45ACEE53-B1B6-49BC-85A7-5D25983374E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45ACEE53-B1B6-49BC-85A7-5D25983374E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45ACEE53-B1B6-49BC-85A7-5D25983374E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45ACEE53-B1B6-49BC-85A7-5D25983374E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE58C727-A494-49D6-8E54-2870AA1DE637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE58C727-A494-49D6-8E54-2870AA1DE637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE58C727-A494-49D6-8E54-2870AA1DE637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE58C727-A494-49D6-8E54-2870AA1DE637}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FEADFAB-C7D3-4A4F-BFB7-84FF1F161FCB}
+	EndGlobalSection
+EndGlobal
